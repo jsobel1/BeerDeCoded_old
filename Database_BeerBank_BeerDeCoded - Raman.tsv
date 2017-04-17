@@ -1,0 +1,196 @@
+Beer	Brewery	Beer-name	Beer country	Style, ratebeer	ABV	IBU	SRM	Calories, ratebeer	Wheat	Corn	Rice	Oats
+1	Brasserie Lefebvre for Amstein	Wittekop	Belgium	Witbier	4.5	12		135	1			
+2	Adnams	Adnams Broadside	UK	English Strong Ale	6.3	43		189				
+3	Brasserie Du Jorat	Ambrée des Brigands du Jorat	Switzerland	Smoked	6.0	14	10	180				
+4	Anchor	Anchor Porter	USA	Porter	5.6	27	20	168				
+5	Anchor	Anchor Steam	USA	California Common	4.9	37	6	147				
+6	Anderson Valley	Heelch O'hops Double IPA	USA	IPA	8.7	100		261				
+7	Asahi	Asahi super dry	Japan	Lager	5.0	12	3	150		1	1	
+8	BFM	La Salamandre	Switzerland	Weissbier	6.3	15		189	1			
+9	BFM	La Torpille	Switzerland	Belgian Strong Ale	7.5	40		225				
+10	Brasserie Du Jorat	Blanche du Jorat	Switzerland	Weissbier	5.5	15		180	1			
+11	Brooklyn Brewery	Brooklyn Lager	USA	Amber Lager	5.2	33		156				
+12	Black Sheep	Monty Python's Holy Grail	UK	Premium Bitter	4.7			141	1			
+13	Thai Beverages	Chang	Thailand	Pale Lager	5.0			150			1	
+14	Chimay	Chimay Red Cap	Belgium	Abbey Dubbel	7.0	20	14	210	1			
+15	Innis & Gunn	Innis & Gunn Rum Finish	UK	English Strong Ale	7.4	21	28	222				
+16	Brasserie Castelain	Ch'Ti Blonde	France	Bière de Garde	6.4	24	12	192				
+17	Brewdog	Cocoa Psycho	UK	Imperial Stout	10.0	85		300	1			
+18	Coopers Brewery	Coopers Original Pale Ale	Australia	Golden Ale	4.5	22	5	135				
+19	Brouwerij Huyghe	Delirium Red	Belgium	Fruit Beer	8.0	10		240				
+20	Brouwerij Huyghe	Delirium Tremens	Belgium	Belgian Strong Ale	8.5	50	16	255				
+21	Verhaeghe	Duchesse de Bourgogne	Belgium	Sour Red/Brown	6.2	6	20	186				
+22	Duvel Moortgat	Duvel	Belgium	Belgian Strong Ale	8.5	50	16	255				
+22	water (dH2O)				0.0	0	0	0				
+24	Unibroue (Sapporo)	La Fin du Monde	Canada	Abbey Tripel	9.0	19	5.5	270				
+25	Flying Dog Brewery	Flying Dog Pale Ale	USA	American Pale Ale	5.5	35	6	165				
+26	Flying Dog Brewery	Flying Dog Snake Dog IPA	USA	IPA	7.1	60	11	213				
+27	Founders Brewing Company	Founders All Day IPA	USA	IPA	4.7	42		141				
+28	Founders Brewing Company	Founders Centennial IPA	USA	IPA	7.2	65	11	216				
+29	Founders Brewing Company	Founders Dirty Bastard	USA	Scotch Ale	8.5	50	13	255				
+30	Frankenheim Privatbrauerei	Frankenheim Alt	Germany	Altbier	4.8	11	11*	144				
+31	St. James's Gate (Diageo)	Guinness Spec. Export	Ireland	Foreign Stout	8.0	50	35	240				
+32	Brouwerij Van Steenberge	Gulden Draak 	Belgium	Belgian Strong Ale	10.5	28	17	315				
+33	Brouwerij Bosteels	Tripel Karmeliet	Belgium	Abbey Tripel	8.4	30	6	252	1			1
+34	Brouwerij Bosteels	Pauwel Kwak	Belgium	Ale	8.4	50	16	252	1			
+35	Liefmans (Duvel-Moortgat)	Liefmans Fruitesse	Belgium	Fruit Beer	3.8	7		114				
+36	John Martin	Martin's IPA	Belgium	IPA	6.9	36		207				
+37	Charles Wells	McEwan's Export	UK	Bitter	4.5	24*		135				
+38	Moosehead Brewery	Moosehead Lager	Canada	Pale Lager	5.0	16		150				
+39	Nøgne Ø (Hansa Borg)	Nøgne Ø Pale Ale	Norvay	American Pale Ale	6.0	40		180	1			
+40	Officina della birra	Lisbeth	Switzerland	American Pale Ale	7.5	47		225	1			
+41	Brasserie d'Orval	Orval	Belgium	Belgian Ale	6.2	32		186				
+42	Pietra	Pietra	Corse	Amber Lager	6.0	26		180				
+43	Brewdog	Punk	UK	IPA	5.6	40	7.6	168				
+44	Cerveceria Malteria Quilmes SAICAY (InBev)	Quilmes	Argentina	Pale Lager	4.9	15		147				
+45	Desnoes and Geddes (Diageo PLC)	Red Stripe	Jamaica	Pale Lager	4.7	17		141				
+46	Brasserie Rochefort	Rochefort Trappistes 10	Belgium	Abt/Quadrupel	11.3	30		339				
+47	Sabeco	Saigon Export	Vietnam	Pale Lager	4.9			147			1	
+48	Sierra Nevada Brewing Company	Sierra Nevada Pale Ale	USA	American Pale Ale	5.6	37		168				
+49	Sierra Nevada Brewing Company	Sierra Nevada Torpedo Extra IPA	USA	IPA	7.2	65		216				
+50	Boon Rawd Brewery	Singha	Thailand	Premium Lager	5.0			150				
+51	John Martin	Timmermans Tradition Blanche	Belgium	Witbier	4.5	5		135	1			
+52	Trois Dames	La Fraicheur 	Switzerland	Witbier	4.8	20		144	1			
+53	Tsing Tao	Tsing Tao	China	Lager								
+54	Brouwerij der Trappisten van Westmalle	Westmalle tripel	Belgium	Trappiste	9.5	39		285				
+55	Verhaeghe	Barbe Rufa	Belgium	Belgian Strong Ale	8.0	30		255				
+56	La cotta	La cotta bionda	Italy	Golden Ale	4.8	75		144				
+57	Birrificio Trunasse	Hoppy Couple	Italy	IPA	6.0							
+58	Trumer	Waldbier 2014 Wienerwald	Austria	Spice/Herb/Vegetable	8.7	15	12.7	246				
+59	Bosun's Moustache	Brick By Brick Bosun's Moustache	Lithuania	IPA	6.0	60						
+60	Grupo Modelo	Corona Extra	Mexico	Pale Lager	4.6	18	3	138		1	1	
+61	Hofbrau	Weisse Alkoholfrei	Germany	Low Alcohol	0.5	12*		80	1			
+62	Valaisanne (Feldschlösschen)	Valaisanne Ämrich	Switzerland	Weissbier	5.5	10	5.6	165	1			
+63	Brasserie Gessienne	Blanche	France	Weissbier	5.6							
+64	Mateo & Bernabé	Mateo 21	Spain	Wheat Ale	5.0	13.0		150	1			
+65	Oland Brewery (AB-InBev)	Alexander Keiths India Pale Ale	Canada	IPA	5.0	20		150		1		
+66	Sleeman	Cream Ale	Canada	Cream Ale	5.0			150				
+67	Sleeman	Original draught	Canada		5.0							
+68	Mill Street	Organic Lager	Canada		4.2							
+69	Labatt	Budweiser	Canada		5.0							
+70	Coors Brewing	Coors Light	Canada		4.0							
+71	Wellington	S.P.A	Canada	Pale Ale	4.5	22		150				
+72	Wellington	County	Canada	Ale	5.0							
+73	Wellington	Arkell	Canada	Ale	4.0							
+74	Wellington	Imperial	Canada	Stout	8.0	42		240				
+75	Bitchin' Brewery	Stout	UK	Stout	6.4							
+76	Bitchin' Brewery	Coffee Stout	UK	Stout	6.4							
+77	Windsor & Eton	Magna Carta	UK	Ale	7.2							
+78	Hackuarium	Fakufaku	CH	Stout								
+79	Frères Papinot	Calvinus Blanche	CH	Weissbier	5.2	15	13	156	1			
+80	Frères Papinot	Calvinus Blonde	CH	Pale Lager	4.8	18	7	156				
+81	Les Murailles	Meynite	CH	Belgian Ale	5.0			150				
+82	Les Murailles	Sorcière	CH									
+83	Les Murailles	Pieuse	CH									
+84	Homebrew	Roter Baron	CH									
+85	Docteur Gabs	Houleuse	CH	Witbier	5.0			150	1			
+86	Docteur Gabs	Pepite	CH									
+87	Docteur Gabs	Tempète	CH									
+88	La Nébuleuse	Embuscade	CH	IPA	6.7	65	8.2		1			
+89	La Nébuleuse	Malt Capone	CH	Robust Porter	7.0	30	50		1			1
+90	La Nébuleuse	Stirling	CH	California Common	5.3	38	7.3					
+91	Bieraria Tschlin	BE	CH									
+92	Mongozo	Banana	Belgium									
+93	Chimay	Tripel	Belgium									
+94	Andechs	Weissbier hell	Belgium									
+95	Warsteiner	Konig Ludwig Dunkel	Germany									
+96	Feldschlosschen	Braufrisch	CH									
+97	Brasserie DuPont	BioLegère	Belgium		3.5							
+98	water (dH2O)				0.0	0	0	0				
+99	water (dH2O)				0.0	0	0	0				
+100	water (dH2O)				0.0	0	0	0				
+101	water (dH2O)				0.0	0	0	0				
+102	Coudres	Pale Ale	CH									
+103	Unserbier	Amber	CH									
+104	Brasserie du Mont Blanc	Brassin d'Hiver	France									
+105	Ottakringer	Wiener Original	Austria									
+106	Homebrew	Amber Ale	CH									
+107	Homebrew	SquareBeer	CH	White IPA								
+108	control empty cell											
+109	control empty tube											
+110	La Mule	Browney	CH									
+111	Bartis	La Koyot	CH									
+112	Brasserie Montheysanne	La Montheysanne	CH									
+113	Brasserie du Griffon	La Fourbe	CH									
+114	Brasserie Sierrvoise	Noire	CH									
+115	Brasseurs de Vollèges	La Tourbillon	CH									
+116	Brasserie du Vieux Chemin	La Prudencia	CH									
+117	Brasserie Tardiv	Tardiv	CH									
+118	Brasserie des 5 quatre mille	Biere de Zinal	CH	Blanche au seigle								
+119	Brasserie d'Ayent	Celsius Folamour	CH									
+120	Coudres	Blonde	CH									
+121	Leffe	Vieille Cuvée	Belgium									
+122	La Nébuleuse	ChichaBeer experimental	CH									
+123	Muller Brau	Pale Ale	CH									
+124	Docteur Gabs	Ipanema	CH									
+125	Brewdog	5AM Saints	UK	Amber Ale	5.0	35		150				
+126	Boxer	Boxer Old	CH		5.2							
+												
+												
+												
+												
+	La Nébuleuse	Bience Chucha	CH									
+												
+	Molson	Canadian Lager	Canada	Lager	5.0							
+	Gryphon	Gold	Canada	Lager	4.5							
+												
+												
+	Wellington	Trailhead	Canada	Lager	4.5							
+												
+												
+												
+		Pilsner Urquel	Czech Republic	Pilsner								
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+		Desperados	France	Lager								
+		Bud light	USA	Lager								
+		Cardinal	Switzerland	Lager								
+		Coop prix garantie	Switzerland	Lager								
+		Dogfish Head Pale Ale	USA	Pale Ale								
+												
+												
+	Feldschlösschen	Dunkle Perle	Switzerland									
+		Franziskaner	Germany	Weissbier								
+		Heineken	Netherlands	Lager								
+												
+		Sagres	Spain	Lager								
+		Stella Artois	Belgium	Pilsner								
+		Alternative: König Ludwig Dunkel 033VC										
+		Alternative: Andechs Hefe Weissbier 050VC										
+		Alternative: Warsteiner Premium Verum 033VC										
+		Alternative: Bernard Lager 033VP										
+												
+	Brasserie d'Achouffe	La Chouffe Blonde	Belgium	Belgian Strong Ale	8.0	50	16	240				

@@ -28,7 +28,7 @@ f.close()
 #tel = {'jack': 4098, 'sape': 4139}
 #ONE CODEX pipeline
 
-cmd="export ONE_CODEX_API_KEY='ad2b211a630f400a95b90161a11ff337'"
+cmd="export ONE_CODEX_API_KEY='API_KEY'"
 print cmd
 os.system(cmd)
 
